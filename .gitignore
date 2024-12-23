@@ -1,0 +1,7 @@
+dist/*
+build
+env
+jw8507.egg-info
+*.so
+*.c
+!dist/*.whl
